@@ -6,9 +6,9 @@ namespace testeGit_VS2019
     {
         static void Main(string[] args)
         {
-            Console.WriteLine("Hello World!");
-            Console.WriteLine("Say you'll be there !!");
+            Console.WriteLine("Hello World!");            
             Console.WriteLine("Where do we go ?");
+            Console.WriteLine("Boa noite !!");
         }
     }
 }
