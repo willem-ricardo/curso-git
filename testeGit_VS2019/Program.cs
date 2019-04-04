@@ -7,6 +7,7 @@ namespace testeGit_VS2019
         static void Main(string[] args)
         {
             Console.WriteLine("Hello World!");
+            Console.WriteLine("Say you'll be there !!");
         }
     }
 }
